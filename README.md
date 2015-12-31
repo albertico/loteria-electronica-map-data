@@ -44,7 +44,8 @@ Reading the Fusion Tables documentation, the `fusionTableID` used in the `from:`
 
 ## ¿Dónde Jugar?
 
-Imported at Sat Aug 18 16:23:10 PDT 2012 from `LE_DondeJugar.xls`
+> Imported at Sat Aug 18 16:23:10 PDT 2012 from `LE_DondeJugar.xls`.  
+> Last updated on September 5, 2013.  
 
 #### Data Fields
 
