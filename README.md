@@ -31,7 +31,7 @@ layer_1 = new google.maps.FusionTablesLayer({
 
 Reading the Fusion Tables documentation, the `fusionTableID` used in the `from:` definition uses the **old (deprecated)** numeric ID.
 
-> **Important! Deprecating numeric table IDs: **  
+> **Important! Deprecating numeric table IDs:**  
 > https://groups.google.com/forum/#!msg/fusion-tables-api-announce/_KI_HnWT9V4/S-ZeAYC2zkoJ  
 > _Source: [Fusion Tables API Announce (Google Groups)](https://groups.google.com/forum/#!forum/fusion-tables-api-announce)_
 
